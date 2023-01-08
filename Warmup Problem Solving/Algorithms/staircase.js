@@ -1,6 +1,7 @@
 'use strict';
 
-/* This is a staircase of size N = 4:
+/* 
+This is a staircase of size N = 4:
 
    #
   ##
