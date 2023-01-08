@@ -23,5 +23,5 @@ function theLoveLetterMystery(s) {
     return count;
 }
 
-let s = "abcba";
+let s = "abc";
 console.log(theLoveLetterMystery(s));
